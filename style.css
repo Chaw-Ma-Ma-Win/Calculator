@@ -28,6 +28,7 @@ body {
 }
 
 .screen {
+  margin-top: 1rem;
   font-size: 2rem;
   display: flex;
   justify-content: flex-end;
@@ -45,8 +46,8 @@ button {
   font-size: 1.5rem;
   margin-bottom: 5px;
   border-radius: 40%;
-  width: 7rem;
-  height: 7rem;
+  width: 5rem;
+  height: 5rem;
 }
 
 .firstLine button,
